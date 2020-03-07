@@ -1,0 +1,23 @@
+body {
+    background-color: dodgerblue;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+  }
+
+#topthing {
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    font-size: 18px;
+    text-align: center;
+}
+
+#back {
+    font-size: 16px;
+    text-align: center;
+}
